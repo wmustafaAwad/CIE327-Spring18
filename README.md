@@ -19,5 +19,7 @@ The Code and Simulink was created by us Under Guidance of Eng. Aya Abdelgawad
 
 
 Use 'plotter.m' to Plot Error Rate vs SNR  (Exponential Decay)
+
 Use 'Project.m' for a single transmission-receiving operation with the required number of levels 
+
 Use 'PAMmodem.slx' for a PAM simulator
